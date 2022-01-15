@@ -8,7 +8,7 @@
 <a href="https://matheuslincon.dev/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/matheuslincon/">
+<a href="https://www.linkedin.com/in/matheus-lincon/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:matheuslincon50@gmail.com">
