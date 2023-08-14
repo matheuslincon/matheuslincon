@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <p>I am ambitious Software Developer who enjoys learning new skills and technologies.</p>
+  <p>I am Software Developer who enjoys learning new skills and technologies.</p>
 <a href="https://matheuslincon.dev/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
