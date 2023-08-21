@@ -56,4 +56,10 @@
 </div>
 
   
-  ![Snake animation](https://github.com/matheuslincon/matheuslincon/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/matheuslincon/matheuslincon/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
